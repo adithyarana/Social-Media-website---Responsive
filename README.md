@@ -4,6 +4,8 @@ Here’s a polished README for your social media project on GitHub:
 
 ---
 
+the live link --  https://social-media-website-responsive.vercel.app/
+
 # Social Media App 🌐
 
 Welcome to my Social Media App! This is a simple yet dynamic platform built using **HTML**, **CSS**, and **JavaScript**. The app mimics some of the essential features of a social media platform, designed to enhance user interaction and experience.
